@@ -103,7 +103,5 @@ Backend development involves creating the server-side logic, database management
 
 ---
 
-## Notes
-- This file is meant to guide development, database design, and API specs.
-- All updates to backend logic should reflect here.
+
 
